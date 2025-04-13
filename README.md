@@ -1,7 +1,7 @@
 **Customer Review Sentiment Analysis and Marketing Data Processing**
 **Overview**
 
-This repository contains two projects focused on customer review sentiment analysis and marketing data processing:
+This repository contains projects focused on customer review sentiment analysis and marketing data processing:
 
 **Customer Review Sentiment Analysis:**
 
